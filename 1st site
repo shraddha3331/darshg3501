@@ -1,0 +1,95 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>10th Grade Key Notes and Mock Papers</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1rem 2rem;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 1rem;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .price {
+            color: #4CAF50;
+            font-size: 1.5rem;
+            font-weight: bold;
+        }
+        .features {
+            margin: 1rem 0;
+        }
+        .features li {
+            margin-bottom: 0.5rem;
+        }
+        .cta {
+            text-align: center;
+            margin: 2rem 0;
+        }
+        .cta button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 0.8rem 1.5rem;
+            font-size: 1rem;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .cta button:hover {
+            background-color: #45a049;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background-color: #333;
+            color: white;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>10th Grade Key Notes & Mock Papers</h1>
+    </header>
+
+    <div class="container">
+        <h2>Boost Your Exam Preparation!</h2>
+        <p>Get comprehensive key notes and mock papers for all subjects tailored for 10th-grade students. Perfect for acing your exams with confidence!</p>
+
+        <p class="price">Only ₹99</p>
+
+        <ul class="features">
+            <li>Concise and Easy-to-Understand Key Notes</li>
+            <li>Mock Test Papers for All Subjects</li>
+            <li>Instant Download Available</li>
+            <li>Exam-Focused Material</li>
+        </ul>
+
+        <div class="cta">
+            <button onclick="alert('Thank you for your interest! Contact us to purchase.')">Buy Now</button>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Key Notes & Mock Papers | All Rights Reserved</p>
+    </footer>
+</body>
+</html>
